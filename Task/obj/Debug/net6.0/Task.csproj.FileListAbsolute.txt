@@ -1,0 +1,15 @@
+D:\УЧЁБА\GB учеба\C# итоговая\Task\bin\Debug\net6.0\Task.exe
+D:\УЧЁБА\GB учеба\C# итоговая\Task\bin\Debug\net6.0\Task.deps.json
+D:\УЧЁБА\GB учеба\C# итоговая\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+D:\УЧЁБА\GB учеба\C# итоговая\Task\bin\Debug\net6.0\Task.dll
+D:\УЧЁБА\GB учеба\C# итоговая\Task\bin\Debug\net6.0\Task.pdb
+D:\УЧЁБА\GB учеба\C# итоговая\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+D:\УЧЁБА\GB учеба\C# итоговая\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\GB учеба\C# итоговая\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+D:\УЧЁБА\GB учеба\C# итоговая\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+D:\УЧЁБА\GB учеба\C# итоговая\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\GB учеба\C# итоговая\Task\obj\Debug\net6.0\Task.dll
+D:\УЧЁБА\GB учеба\C# итоговая\Task\obj\Debug\net6.0\refint\Task.dll
+D:\УЧЁБА\GB учеба\C# итоговая\Task\obj\Debug\net6.0\Task.pdb
+D:\УЧЁБА\GB учеба\C# итоговая\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+D:\УЧЁБА\GB учеба\C# итоговая\Task\obj\Debug\net6.0\ref\Task.dll
